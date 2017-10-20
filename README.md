@@ -3,7 +3,6 @@ Canned fake API server
 
 [![Build Status](https://travis-ci.org/sideshowcoder/canned.png?branch=master)](https://travis-ci.org/sideshowcoder/canned) [![Code Climate](https://codeclimate.com/github/sideshowcoder/canned.png)](https://codeclimate.com/github/sideshowcoder/canned) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sideshowcoder/canned/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-
 View the docs on [Docs](http://sideshowcoder.github.io/canned)
 
 Working with APIs, more often than not, during development you want to work
@@ -37,8 +36,6 @@ are served as
     <html>
       <body>Some html in here</body>
     </html>
-
-
 
 Awesome! so what is supported?
 ------------------------------
@@ -101,7 +98,6 @@ probaly most used type (JSON) does not :(. So canned actually extends the JSON
 syntax a little so it can include comments with _//_ or _/**/_. In case you use
 the json files directly on the backend side as test cases make sure you strip
 those out as well!
-
 
 Ok I need this!
 ---------------
